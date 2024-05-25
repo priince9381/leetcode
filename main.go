@@ -1,8 +1,8 @@
 package main
 
-import (
-	"test/findallanagram"
-)
+import plusone "test/plus_one"
+
+// "test/findallanagram"
 
 // "lengthOfLastWord"
 
@@ -71,5 +71,7 @@ func main() {
 	// lastworldlength.TestLastWord()
 	// kthsmallestelement.TestKthSmallestElement()
 	// wordsearch.Testexist()
-	findallanagram.TestFindAllAnagras()
+	// findallanagram.TestFindAllAnagras()
+	// searchinsetpostion.TestSearchInsert()
+	plusone.TestplusOne()
 }
