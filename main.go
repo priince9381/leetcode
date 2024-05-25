@@ -1,6 +1,8 @@
 package main
 
-import plusone "test/plus_one"
+import (
+	"test/topkbased"
+)
 
 // "test/findallanagram"
 
@@ -73,5 +75,9 @@ func main() {
 	// wordsearch.Testexist()
 	// findallanagram.TestFindAllAnagras()
 	// searchinsetpostion.TestSearchInsert()
-	plusone.TestplusOne()
+	// plusone.TestplusOne()
+	// isanagram.TestisAnagram()
+	// twoSum.TestTwoSum()
+	// groupanagram.TestGroupAnagrams()
+	topkbased.TesttopKFrequest()
 }
