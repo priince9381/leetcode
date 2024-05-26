@@ -1,9 +1,5 @@
 package main
 
-import (
-	"test/topkbased"
-)
-
 // "test/findallanagram"
 
 // "lengthOfLastWord"
@@ -79,5 +75,6 @@ func main() {
 	// isanagram.TestisAnagram()
 	// twoSum.TestTwoSum()
 	// groupanagram.TestGroupAnagrams()
-	topkbased.TesttopKFrequest()
+	// topkbased.TesttopKFrequest()
+	// containdublicate.TestContainDuplicate()
 }
