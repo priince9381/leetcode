@@ -1,8 +1,6 @@
 package main
 
-import (
-	gobasics "test/go_basics"
-)
+import sumsorted "test/2SumSorted"
 
 // "test/findallanagram"
 
@@ -85,5 +83,7 @@ func main() {
 	// gobasics.TestInterface()
 	// gobasics.TestMainFunction()
 	// gobasics.TestChannel()
-	gobasics.TestSliceArray()
+	// gobasics.TestSliceArray()
+	// validpalandron.TestPalindron()
+	sumsorted.TestTwoSum()
 }
