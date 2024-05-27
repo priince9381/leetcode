@@ -1,5 +1,9 @@
 package main
 
+import (
+	gobasics "test/go_basics"
+)
+
 // "test/findallanagram"
 
 // "lengthOfLastWord"
@@ -77,4 +81,9 @@ func main() {
 	// groupanagram.TestGroupAnagrams()
 	// topkbased.TesttopKFrequest()
 	// containdublicate.TestContainDuplicate()
+	// longestconsetancesequenc.Testlongestconsetancesequenc()
+	// gobasics.TestInterface()
+	// gobasics.TestMainFunction()
+	// gobasics.TestChannel()
+	gobasics.TestSliceArray()
 }
